@@ -14,7 +14,7 @@ The next challenge was linking the front end to the back end, as the front end w
 ### Implementation/End product: 
 This program was implemented in JavaScript for the front end (and partly the back end), using Bing Maps API for getting the images, and Google Maps Geocoding API for extracting longitude/latitude for a given address and determinig the level of zoom necessary in processing the picture (based on how specific the address provided by the user was). 
 
-![homepage](https://i.imgur.com/v9IzEwT.png)
+![homepage](https://i.imgur.com/IILSt9C.png)
 
 The program downloads 3 images at different zoom levels, allowing the user to decide which one is suitable. OpenCV (python) was also used to do the actual thresholding for green values, and generating the output image, along with printing statistics.
 
