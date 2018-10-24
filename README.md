@@ -6,9 +6,9 @@ An application for locating green spaces in cities, based on satellite imaging.
 This project was inspired from MIT's treepedia, which calculates the green view index of different locations based on the amount of trees that are planted on the streets. We wanted to extend this to include all green spaces, so that individuals can find out more about their street, city, state, or anywhere else in the world, based on which address they input. This was also part of an effort to find correlations between equity and green spaces.
 
 ### Challenges: 
-The main challenge was the time constraint: Originally we wanted to create a decentralized IoT platform, using distributed hash tables and rasberry pi's to set up an autonomous network of devices capable of leader election and task scheduling without a central node. Unfortunately, this turned out to be out of our scope, and we switched over to this project halfway throughout the hackathon.
+The main challenge was the time constraint: Originally we wanted to head toward an IoT and machine learning project, but unfortunately this turned out to be out of our scope. We switched over to this project halfway throughout the hackathon.
 
-The next challenge was linking the front end to the back end, as the front end was mostly in JavaScript, while the back end was in Python. This posed to be an great challenge, and ultimately we had to come up with a manual solution, that of using a bash script to run the python program for getting the green spaces after input was recieved from the webpage.
+The next challenge was linking the front end to the back end, as the front end was mostly in JavaScript, while the back end was in Python. This posed to be a great challenge, and ultimately we had to come up with a manual solution, that of using a bash script to run the python program for getting the green spaces after input was recieved from the webpage.
 
 
 ### Implementation/End product: 
