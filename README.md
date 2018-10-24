@@ -1,4 +1,4 @@
-# GreenCover Analysis
+# GreenCover
 
 An application for locating green spaces in cities, based on satellite imaging.
 
