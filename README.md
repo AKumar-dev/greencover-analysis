@@ -27,7 +27,7 @@ MODDED
 ![modded](https://i.imgur.com/7RWgREC.png)
 
 ## Overall: 
-The goal of the project was largely met, as we were able to generate the green indexes for any given location, and further were able to compute statistics on it. We ran into many challenges, including trying to convert the OpenCV program from Python to JS so that we could integrate front/back end. An important lesson from this project was figuring out how necessary a plan of action is before starting on a project and time management.
+The goal of the project was largely met, as we were able to generate the green indexes for any given location, and further were able to compute statistics on it. We ran into many challenges, including trying to convert the OpenCV program from Python to JS so that we could integrate front/back end. An important lesson from this project was figuring out how necessary a plan of action is before starting on a project, and obviously time management.
 
    Team:  [Akshay Kumar](https://github.com/AKumar-dev),
           [Ananmay Jain](https://github.com/ananmay3),
